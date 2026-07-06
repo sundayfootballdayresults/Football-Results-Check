@@ -24,7 +24,7 @@
 ]
 [
   {
-    "regNo": "08",
+    "regNo": "09",
     "firstName": "Absalewe",
     "average": 87,
     "status": "PASS"
@@ -99,6 +99,14 @@
     "regNo": "41",
     "firstName": "Samuel",
     "average": 77,
+    "status": "PASS"
+  }
+  ]
+[
+  {
+    "regNo": "19",
+    "firstName": "Leykun",
+    "average": 79,
     "status": "PASS"
   }
   ]
