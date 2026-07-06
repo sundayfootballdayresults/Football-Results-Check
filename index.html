@@ -1,6 +1,37 @@
-Football-Results-Check
-│
-├── index.html
-├── style.css
-├── script.js
-└── results.json
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sunday Football Day Results</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<div class="container">
+
+<h1>Sunday Football Day Results</h1>
+
+<p>Enter Player ID</p>
+
+<input
+type="text"
+id="playerID"
+placeholder="Enter Player ID">
+
+<br><br>
+
+<button onclick="checkResult()">
+Check Result
+</button>
+
+<div id="result"></div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
