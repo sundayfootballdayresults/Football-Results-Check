@@ -1,86 +1,104 @@
 [
   {
-    "id": "08",
-    "name": "Abrham.K",
-    "Number": 08
-    "rating": "86"
-    "result":Pass
-  },
+    "regNo": "08",
+    "firstName": "Abrham.K",
+    "average": 86.75,
+    "status": "PASS"
+  }
+]
+[
   {
-    "id": "06",
-    "name": "Abrham.D",
-    "Number": 06
-    "rating": "89"
-    "result":Pass
-  },
+    "regNo": "08",
+    "firstName": "Abrham.D",
+    "average": 89,
+    "status": "PASS"
+  }
+]
+[
   {
-    "id": "09",
-    "name": "Absalew",
-    "Number": 09
-    "rating": "84"
-    "result":Pass
+    "regNo": "16",
+    "firstName": "Abrham(Vandik)",
+    "average": 80,
+    "status": "PASS"
   }
 ]
-"id": "24",
-    "name": "Amen",
-    "Number": 24
-    "rating": "79"
-    "result":Pass
+[
+  {
+    "regNo": "08",
+    "firstName": "Absalewe",
+    "average": 87,
+    "status": "PASS"
   }
 ]
-"id": "03",
-    "name": "Yabsira",
-    "Number": 03
-    "rating": "89"
-    "result":Pass
+[
+  {
+    "regNo": "24",
+    "firstName": "Amen",
+    "average": 67,
+    "status": "PASS"
   }
-]
-"id": "07",
-    "name": "Yidnekachew",
-    "Number": 07
-    "rating": "84"
-    "result":Pass
+  ]
+[
+  {
+    "regNo": "3",
+    "firstName": "Yabsira.T",
+    "average": 89,
+    "status": "PASS"
   }
-]
-"id": "11",
-    "name": "Firaol",
-    "Number": 11
-    "rating": "87"
-    "result":Pass
+  ]
+[
+  {
+    "regNo": "24",
+    "firstName": "Yidnekachew",
+    "average": 76,
+    "status": "PASS"
   }
-]
-"id": "10",
-    "name": "Leykun",
-    "Number": 10
-    "rating": "77"
-    "result":Pass
+  ]
+[
+  {
+    "regNo": "24",
+    "firstName": "Firaol",
+    "average": 71,
+    "status": "PASS"
   }
-]
-"id": "30",
-    "name": "Natanim",
-    "Number": 30
-    "rating": "64"
-    "result":Fail
+  ]
+[
+  {
+    "regNo": "37",
+    "firstName": "Mikiyas.S",
+    "average": 61,
+    "status": "Fail"
   }
-]
-"id": "37",
-    "name": "Mikiyas.S",
-    "Number": 37
-    "rating": "64.7"
-    "result":Fail
+  ]
+[
+  {
+    "regNo": "24",
+    "firstName": "Yabsira.Ta",
+    "average": 61,
+    "status": "Fail"
   }
-]
-"id": "16",
-    "name": "Abrham(Vandik)",
-    "Number": 16
-    "rating": "87"
-    "result":Pass
+  ]
+[
+  {
+    "regNo": "30",
+    "firstName": "Natanim",
+    "average": 64,
+    "status": "Fail"
   }
-]
-"id": "47",
-    "name": "Natan",
-    "Number": 47
-    "rating": "83"
-    "result":Pass
+  ]
+[
+  {
+    "regNo": "47",
+    "firstName": "Natan",
+    "average": 85,
+    "status": "PASS"
   }
-]
+  ]
+[
+  {
+    "regNo": "41",
+    "firstName": "Samuel",
+    "average": 77,
+    "status": "PASS"
+  }
+  ]
